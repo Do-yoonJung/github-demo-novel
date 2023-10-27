@@ -29,5 +29,6 @@ Start The Web Developer Bootcamp
 2023-10-24 Bootcamp ~39
 2023-10-25 Bootcamp ~41
 2023-10-26 Bootcamp ~43
+2023-10-27 Bootcamp ~45
 =========
 Thomas Tomc
