@@ -53,5 +53,6 @@ Start The Web Developer Bootcamp
 2023-11-06 Bootcamp ~javascript section 16 h
 2023-11-06 Bootcamp ~javascript section 16
 2023-11-06 Bootcamp ~CSS section 8
+2023-11-06 Bootcamp ~javascript section 17
 =========
 Thomas Tomc
