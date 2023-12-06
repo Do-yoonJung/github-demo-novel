@@ -57,5 +57,6 @@ Start The Web Developer Bootcamp
 2023-12-03 december 1st study~~
 2023-12-04 december css
 2023-12-05 css
+2023-12-06 js section 19
 =========
 Thomas Tomc
