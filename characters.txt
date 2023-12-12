@@ -59,5 +59,7 @@ Start The Web Developer Bootcamp
 2023-12-05 css
 2023-12-06 js section 19
 2023-12-09 정처기
+2023-12-10 jsjs
+2023-12-12 jsjs
 =========
 Thomas Tomc
