@@ -126,5 +126,6 @@ Start The Web Developer Bootcamp
 2024-03-06 ^^
 2024-03-07 ^^
 2024-03-09 ^^
+2024-03-11 ^^
 =========
 Thomas Tomc
